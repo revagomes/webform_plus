@@ -1,0 +1,17 @@
+<?php
+
+/**
+ * @file
+ * Standard installation, update, uninstall scripts.
+ */
+
+/**
+ * Implements hook_install().
+ */
+function webform_plus_install() {
+  db_update('system')
+    ->condition('name', 'webform_plus')
+    ->condition('type', 'module')
+    ->fields(['weight' => -2])
+    ->execute();
+}
