@@ -1,9 +1,7 @@
 name =  Webform Plus
 description = Provide forms structure Import and Export and Improvements for Webform settings.
-package = 
+package = webform 
 core= 7.x
 php= 7.0
-multisite_version=
 
 dependencies[] = webform
-dependencies[] = webform_addmore
