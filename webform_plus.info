@@ -1,4 +1,4 @@
-name =  Webform Plus
+name = Webform Plus
 description = Provide forms structure Import and Export and Improvements for Webform settings.
 package = webform 
 core= 7.x

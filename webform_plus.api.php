@@ -2,11 +2,11 @@
 
 /**
  * @file
- * Sample hooks demonstrating usage in  Webform Plus.
+ * Sample hooks demonstrating usage in Webform Plus.
  */
 
 /**
- * @defgroup webform_plus_hooks  Webform Plus Module Hooks
+ * @defgroup webform_plus_hooks Webform Plus Module Hooks
  * @{
  *  Webform Plus' hooks enable other modules to intercept events within
  * the module.
