@@ -1,0 +1,21 @@
+{
+    "name": "revagomes/webform_plus",
+    "description": "Webform Import/Export functionality for Drupal 7.x.",
+    "type": "drupal-module",
+    "homepage": "https://github.com/revagomes/webform_plus",
+    "authors": [
+        {
+            "name": "Reva Gomes",
+            "homepage": "https://revagomes.com.br",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/revagomes/webform_plus/issues"
+    },
+    "license": "GPL-2.0+",
+    "minimum-stability": "dev",
+    "require": {
+        "drupal/core": "^7.95"
+    }
+}
